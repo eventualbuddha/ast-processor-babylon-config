@@ -41,5 +41,8 @@
   "bugs": {
     "url": "https://github.com/eventualbuddha/ast-processor-babylon-config/issues"
   },
-  "homepage": "https://github.com/eventualbuddha/ast-processor-babylon-config#readme"
+  "homepage": "https://github.com/eventualbuddha/ast-processor-babylon-config#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
