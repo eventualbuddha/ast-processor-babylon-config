@@ -1,5 +1,7 @@
 # ast-processor-babylon-config
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventualbuddha/ast-processor-babylon-config.svg)](https://greenkeeper.io/)
+
 Unified interface to a babylon AST.
 
 ## Install
